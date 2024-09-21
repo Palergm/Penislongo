@@ -1,0 +1,185 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    background-color: #A93226 ;
+    height: 70px;
+    border-bottom: 3px solid black;
+    margin-bottom: 40px;
+}
+
+.beggin{
+    text-align: center;
+    color: white;
+    font-family: 'Sevillana';
+    font-size: 16px;
+    position: relative;
+    top: 5px;
+}
+
+.section1 {
+    padding-top: 30px;
+    background-color:#A93226;
+    height: 600px;
+}
+
+
+.section1 img {
+    width: 40%;
+    height: 40%;
+    padding-left: 30px;
+    padding-right: 30px;
+    display: inline;
+    float: left;
+}
+
+h2 {
+    text-align: center;
+    font-family: 'Playwrite CU';
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 30px;
+}
+
+h4 {
+    margin-left: 30px;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 25px;
+    padding-bottom: 30px;
+    color: white;
+}
+
+.section1 p {
+    color:white;
+    margin-left: 10px;
+    font-size: 25px;
+    padding-top: 30px;
+}
+
+.section1 span {
+    color: white;
+    margin-left: 10px;
+    font-size: 25px;
+}
+
+.intro {
+    background-image: url(https://f.i.uol.com.br/fotografia/2021/08/13/16288884916116ddabbc4d9_1628888491_5x2_lg.jpg);
+    background-size: cover;
+    height: 500px;
+    width: 85%;
+    margin: auto;
+}
+
+.intro h2{
+    color: white;
+    font-size: 50px;
+    padding-top: 50px;
+}
+
+.intro p{
+    text-align: center;
+    position: static;
+    margin: auto;
+    color: white;
+    font-size: 30px;
+    font-family: 'Playwrite CU';
+    padding-bottom: 30px;
+}
+
+.intro input{
+    margin: 30px 44%;
+    padding: 25px;
+    border-radius: 10px;
+    background-color:#A93226;
+    color: white;
+    font-family: 'Playwrite CU';
+    border: solid;
+    cursor: pointer;
+}
+
+.intro input:hover {
+    background-color: #5c231d;
+}
+
+
+.section2 img{
+    display: inline;
+    float: right;
+    width: 40%;
+    height: 40%;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.section2 p {
+    margin-left: 10px;
+    font-size: 25px;
+    padding-left: 20px;
+    padding-bottom: 70px;
+}
+
+.section2 h4 {
+    color: black;
+    padding: 30px;
+    text-align: right;
+}
+
+.section2 span {
+    padding: 10px;
+}
+
+.section3 {
+    background-color: #A93226;
+    height: 600px;
+}
+
+.section3 h4 {
+    padding: 30px;
+    text-align: left;
+}
+
+.section3 img {
+    width: 40%;
+    height: 450px;
+    display: inline;
+    float: left;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.section3 p {
+    font-size: 25px;
+    padding-top: 30px;
+    color: white;
+    
+}
+
+.section3 span {
+    padding: 10px;
+}
+
+footer {
+    padding-top: 40px;
+    background-color: black;
+    border-top: 2px white solid;
+    margin-top: 40px;
+}
+
+footer ul {
+    color: white;
+    font-size: 30px;
+}
+
+footer li {
+    display: inline-block;
+    width: 33%;
+    padding-left: 30px;
+    padding-bottom: 30px;
+    font-size: 15px;
+}
+
+
